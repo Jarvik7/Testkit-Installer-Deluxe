@@ -11,7 +11,7 @@ FAQ
 ===
 Q: Can I get an unrecoverable brick from this?
 
-A: No. If your boot config corrupts (which it 99.9% should not do) then just reboot into safe mode, reinstall the 3.60 retail firmware, and reinstall HENkaku Enso.
+A: No. If your boot config corrupts (which it 99.9% should not do) then just reboot into safe mode, reinstall the 3.60 retail firmware, and reinstall HENkaku Enso. Moreover, it was proven that you could still access safe mode to reinstall firmware after deleting all of vs0.
 
 Q: I get C2-12828-1 when trying to install/uninstall! Halp!
 
