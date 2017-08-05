@@ -11,3 +11,5 @@ FAQ
 ===
 Q: Can I get an unrecoverable brick from this?
 A: No. If your boot config corrupts (which it 99.9% should not do) then just reboot into safe mode, reinstall the 3.60 retail firmware, and reinstall HENkaku Enso.
+Q: I get C2-12828-1 when trying to install/uninstall! Halp!
+A: Make sure unsafe homebrew is **on** or try and untick/retick the box and it should work again.
