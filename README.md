@@ -20,9 +20,15 @@ A: Make sure unsafe homebrew is **on** or try and untick/retick the box and it s
 Credits
 =======
 Testkit Installer Deluxe app - Voxel9
+
 Full testkit spoof trick - SKGleba
+
 kDump.skprx (spoofer plugin) - Zecoxao
+
 (in accordance with memdump license: I made changes to the plugin so it does not log or dump any files)
+
 Activation spoofing - PSVitaDevTestKit95
+
 Support and pointers - CelesteBlue and Modz2014
+
 HENkaku Enso - Team Molecule
