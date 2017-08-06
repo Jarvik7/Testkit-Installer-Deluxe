@@ -16,3 +16,13 @@ A: No. If your boot config corrupts (which it 99.9% should not do) then just reb
 Q: I get C2-12828-1 when trying to install/uninstall! Halp!
 
 A: Make sure unsafe homebrew is **on** or try and untick/retick the box and it should work again.
+
+Credits
+=======
+Testkit Installer Deluxe app - Voxel9
+Full testkit spoof trick - SKGleba
+kDump.skprx (spoofer plugin) - Zecoxao
+(in accordance with memdump license: I made changes to the plugin so it does not log or dump any files)
+Activation spoofing - PSVitaDevTestKit95
+Support and pointers - CelesteBlue and Modz2014
+HENkaku Enso - Team Molecule
